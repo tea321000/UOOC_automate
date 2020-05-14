@@ -8,3 +8,5 @@ UOOC优课联盟自动化播放
 3. 运行程序后会列出该账号下所有课程，输入课程相应的数字对该课程进行自动化播放
 
 假如跑完一次还有漏掉的视频再运行一次
+
+![运行截图](https://github.com/tea321000/UOOC_automate/blob/master/img/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.jpg?raw=true "运行截图")
