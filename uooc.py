@@ -2,9 +2,8 @@ import sys
 import requests
 import json
 import time
-import os
 import calendar
-from http.cookies import SimpleCookie
+# from http.cookies import SimpleCookie
 import os
 import subprocess
 
